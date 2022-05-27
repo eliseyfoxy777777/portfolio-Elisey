@@ -1,0 +1,274 @@
+body {
+    font-family: sans-serif;
+}
+
+a {
+    color: blueviolet;
+
+}
+
+a:hover {
+    color: brown;
+    background-color: rgb(0, 72, 206);
+    transition: 3s linear;
+}
+
+.social {
+    padding: 20px;
+}
+
+.mem {
+    color: blue;
+}
+
+.mem:hover {
+    color: rgb(255, 0, 0);
+    background-color: darkred;
+    transition: 3s linear;
+    border-radius: 20px;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+a {
+    color: blueviolet;
+
+}
+
+a:hover {
+    color: brown;
+    background-color: rgb(0, 72, 206);
+    transition: 3s linear;
+}
+
+.social {
+    padding: 20px;
+    
+}
+
+.mem {
+    color: blue;
+}
+
+.mem:hover {
+    color: rgb(255, 0, 0);
+    background-color: darkred;
+    transition: 3s linear;
+    border-radius: 20px;
+}
+
+img {
+    border-radius: 10px;
+}
+
+img:hover {
+    width: 1000px;
+    transition: 100s linear;
+}
+
+.social {
+    display: block; 
+    text-align: center; 
+    font-style: italic; 
+    margin-top: 0; 
+    margin-bottom: 5px; 
+    color: #666;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+a {
+    color: blueviolet;
+
+}
+
+a:hover {
+    color: brown;
+    background-color: rgb(0, 72, 206);
+    transition: 3s linear;
+}
+
+.social {
+    padding: 20px;
+    
+}
+
+.mem {
+    color: blue;
+}
+
+.mem:hover {
+    color: red;
+    background-color: black;
+    transition: 3s linear;
+    border: solid 3px;
+}
+
+img {
+    border-radius: 10px;
+}
+
+img:hover {
+    width: 1000px;
+    transition: 100s linear;
+}
+
+.social {
+    display: block; 
+    text-align: center; 
+    font-style: italic; 
+    margin-top: 0; 
+    margin-bottom: 5px; 
+    color: #666;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+a {
+    color: blueviolet;
+
+}
+
+a:hover {
+    color: red;
+    background-color: black;
+    transition: 3s linear;
+    border: solid 3px;
+}
+
+.social {
+    padding: 20px;
+    
+}
+
+.mem {
+    color: blue;
+}
+
+.mem:hover {
+    color: rgb(255, 0, 0);
+    background-color: darkred;
+    transition: 3s linear;
+    border-radius: 20px;
+}
+
+img {
+    border-radius: 10px;
+}
+
+img:hover {
+    width: 1000px;
+    transition: 100s linear;
+}
+
+.social {
+    display: block; 
+    text-align: center; 
+    font-style: italic; 
+    margin-top: 0; 
+    margin-bottom: 5px; 
+    color: #666;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Rubik One', sans-serif;
+  font-size: 50px;
+  text-transform: uppercase;
+  background: #2E2F45;
+  display: table;
+  margin: 20px auto;
+  color: white;
+  border-radius: 5px;
+  mix-blend-mode: multiply;
+  padding: 5px 10px;
+  color: red;
+}
+
+a {
+    text-align: center;
+}
+
+
+.mem {
+    text-align: center;
+    color: red;
+
+}
+
+
+
+h1:hover {
+    color: blue;
+    background-color: yellow;
+    transition: 3s linear;
+}
+
+
+.memem {
+   font-size: 2em;
+  background: linear-gradient(135deg, red 20%, red 70%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  padding: 0.3em 0.6em ;
+  border: 3px solid transparent;
+  border-image: linear-gradient(135deg, black 20%, red 70%);
+  border-image-slice: 1;
+}
+
+
+body {
+    background: linear-gradient(45deg, red	, black);
+}
+
+li {
+    font-size: 30px;
+}
+
+h1 {
+    margin-top: 10px;
+}
+
+p {
+    font-size: 30px;
+}
+
+.n1 {
+    color: white;
+}
+
+.link-text {
+    font-size: 30px;
+}
+
+.da {
+    font-size: 2em;
+  background: linear-gradient(135deg, red 20%, red 70%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  padding: 0.3em 0.6em ;
+  border: 3px solid transparent;
+  border-image: linear-gradient(135deg, black 20%, red 70%);
+  border-image-slice: 1;
+  transform: translate( 0em, -15em);
+}
+
+.pk {
+    transform: translate( 1em, 3em);
+    margin-bottom: 20px;
+    
+}
+
+
+.img {
+    margin-left: 73px;
+}
+
